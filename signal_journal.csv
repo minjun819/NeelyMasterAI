@@ -1,0 +1,2 @@
+﻿id,recorded_at,symbol,timeframe,direction,setup_type,confidence,risk_pct,ref_price,entry_1,entry_2,avg_entry,stop_loss,tp1,tp2,status,fill_stage,realized_r,account_pnl_pct,evaluated_at
+2C250F,2026-11-17 16:14,BTC/USDT,1h,LONG,(C)파 상방 파동 추세 추종 눌림목 매수 셋업,86,1.5,64618.5,64421.96,64253.2,64337.58,63723.91,65319.45,65810.38,미체결 대기,0% (대기),0.0,0.0,2026-11-17 16:14
